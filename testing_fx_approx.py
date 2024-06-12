@@ -105,9 +105,4 @@ def approximate_code(code, language="python"):
 
 
 
-code, output = approximate_code("X=55\n\ni = X*55\n\nprint(i)", "python");
-print("Code:")
-print(code)
-print("Output:")
-print(output)
 
